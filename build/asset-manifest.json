@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bmorseka/brookestenglein.git/static/css/main.1866e900.css",
+    "main.js": "/bmorseka/brookestenglein.git/static/js/main.e0a1a47d.js",
+    "static/js/787.749b4a44.chunk.js": "/bmorseka/brookestenglein.git/static/js/787.749b4a44.chunk.js",
+    "static/media/bells-pic.png": "/bmorseka/brookestenglein.git/static/media/bells-pic.29f3da481b17416923c3.png",
+    "static/media/profilePic.jpg": "/bmorseka/brookestenglein.git/static/media/profilePic.88e790684c0fb913d2ba.jpg",
+    "static/media/Spineify.png": "/bmorseka/brookestenglein.git/static/media/Spineify.3ce52723f839e0213f20.png",
+    "static/media/BlueWhiteForest.jpg": "/bmorseka/brookestenglein.git/static/media/BlueWhiteForest.f25d3783ac80156912f5.jpg",
+    "static/media/github.png": "/bmorseka/brookestenglein.git/static/media/github.7de8fbf3ea611cfa254f.png",
+    "index.html": "/bmorseka/brookestenglein.git/index.html",
+    "main.1866e900.css.map": "/bmorseka/brookestenglein.git/static/css/main.1866e900.css.map",
+    "main.e0a1a47d.js.map": "/bmorseka/brookestenglein.git/static/js/main.e0a1a47d.js.map",
+    "787.749b4a44.chunk.js.map": "/bmorseka/brookestenglein.git/static/js/787.749b4a44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1866e900.css",
+    "static/js/main.e0a1a47d.js"
+  ]
+}
