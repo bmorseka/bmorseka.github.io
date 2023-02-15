@@ -12,7 +12,7 @@ const AboutMe = (props) => {
             <Card.Text id="about-me-para">
               I'm Brooke Stenglein. For ten years I worked in the psychology
               field, where I earned my doctorate in Clinical Forensic
-              Psychology. I conducted involved forensic and neuropsychological
+              Psychology. I conducted forensic and neuropsychological
               evaluations as well as therapy. While I loved working with my
               clients, I decided to make a career transition and try something
               new. I completed the Grace Hopper program at Fullstack Academy in

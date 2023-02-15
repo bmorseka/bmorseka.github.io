@@ -15,7 +15,9 @@ const Navigation = () => {
             id="navbar-container"
           >
             <Nav.Link href="#about-me-container">About Me</Nav.Link>
+            <Nav.Link href="#edu-container">Education</Nav.Link>
             <Nav.Link href="#projects-container">Projects</Nav.Link>
+            {/* <Nav.Link href="#projects-container">Projects</Nav.Link> */}
             <Nav.Link href="#skills-container">Skills</Nav.Link>
             <Nav.Link href="#contact-container">Contact Me</Nav.Link>
           </Nav>

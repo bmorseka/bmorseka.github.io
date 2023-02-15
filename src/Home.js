@@ -1,19 +1,20 @@
 import React from "react";
 import Landing from "./Landing";
 import AboutMe from "./AboutMe";
-import Projects from "./Projects";
 import Navigation from "./Navbar";
 import ContactMe from "./ContactMe";
 import MySkills from "./Skills";
-import Resume from "./Resume";
+import Education from "./Education";
+import Project from "./Project";
 
 const Home = (props) => {
   return (
-    <div className="projects-container">
+    <div className="home-container">
       <Navigation />
       <Landing />
       <AboutMe />
-      <Projects />
+      <Education />
+      <Project />
       <MySkills />
       <ContactMe />
     </div>
