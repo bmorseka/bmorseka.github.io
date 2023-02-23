@@ -52,7 +52,7 @@ Tan: #ece6da
   justify-content: center;
   gap: 2rem;
   padding-top: 1rem;
-  /* margin-bottom: 2rem; */
+  align-items: center;
 }
 
 /* .resume {
