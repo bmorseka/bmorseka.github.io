@@ -93,7 +93,7 @@ Tan: #ece6da
 .intro {
   display: flex;
   flex-direction: column;
-  background-image: url("/src/BlueWhiteForest.jpg");
+  background-image: url("/src/Components/BlueWhiteForest.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   width: 100vw;
